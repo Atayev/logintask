@@ -5,5 +5,4 @@ export const myaxios = axios.create({
   headers: {
     "X-Requested-With": "XMLHttpRequest",
   },
-
 });
